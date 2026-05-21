@@ -69,6 +69,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |PRISM |PRISM: periodic representation with multiscale and similarity graph modelling for enhanced crystal structure property prediction (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02074-1)] [[**Code**](https://github.com/imatge-upc/PRISM)] |
 |ICL-FM |In context learning foundation models for materials property prediction with small datasets (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02089-8)] [[**Code**](https://github.com/usccolumbia/matFM)] |
 |MatterChat        | A multimodal large language model for materials science (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01214-y)][[**Code**](https://zenodo.org/records/18735881)]     | 
+|AtomNet |Physics-informed graph neural network representation learning for crystal property prediction (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02131-9)] [[**Code**](https://github.com/JieCoa/AtomNet)] |
+|LLM-AL |Training-free active learning framework in materials science with large language models (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02136-4)] [[**Code**](https://github.com/Toniaac/LLM-AL)] |
 
 ## Crystalline Material Generative Design
 
@@ -165,7 +167,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CrystalDiT |CrystalDiT: Simple Diffusion Transformers for Crystal Generation (AAAI2026) [[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/37121)] [[**Code**](https://github.com/hanyi2021/CrystalDiT)] |
 |- |Closed-loop workflow of high-entropy materials discovery: efficient and accurate synthesizability prediction via domain-specific local LLMs (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02092-z)] [[**Code**](https://github.com/evenfarther/Sythesizability_prediction_local_llms)] |
 |DAO  |Siamese foundation models for crystal structure prediction (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-72362-3)] [[**Code**](https://github.com/ManlioWu/DAO)]     |
-
+|SymmBFN |Symmetry-aware Bayesian flow networks for crystal generation (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02140-8)] [[**Code**](https://github.com/aimat-lab/symmbfn)] |
 
 ## Aiding Characterization
 |Method         |           Paper            |
