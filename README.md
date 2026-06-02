@@ -71,6 +71,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |MatterChat        | A multimodal large language model for materials science (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01214-y)][[**Code**](https://zenodo.org/records/18735881)]     | 
 |AtomNet |Physics-informed graph neural network representation learning for crystal property prediction (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02131-9)] [[**Code**](https://github.com/JieCoa/AtomNet)] |
 |LLM-AL |Training-free active learning framework in materials science with large language models (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02136-4)] [[**Code**](https://github.com/Toniaac/LLM-AL)] |
+|CBNN        |Cross-material catalyst discovery via deep learning (Nature Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41563-026-02622-6)]   [[**Code**](https://zenodo.org/records/19133272)]   | 
 
 ## Crystalline Material Generative Design
 
