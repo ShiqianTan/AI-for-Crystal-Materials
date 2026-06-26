@@ -72,6 +72,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |AtomNet |Physics-informed graph neural network representation learning for crystal property prediction (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02131-9)] [[**Code**](https://github.com/JieCoa/AtomNet)] |
 |LLM-AL |Training-free active learning framework in materials science with large language models (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02136-4)] [[**Code**](https://github.com/Toniaac/LLM-AL)] |
 |CBNN        |Cross-material catalyst discovery via deep learning (Nature Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41563-026-02622-6)]   [[**Code**](https://zenodo.org/records/19133272)]   | 
+|ELECTRAFI          |Global Plane Waves from Local Gaussians: Periodic Charge Densities in a Blink (ICML2026) [[**Paper**](https://openreview.net/forum?id=EPKdX56JSc)]     [[**Code**](https://github.com/Jotels/ELECTRAFI)]  | 
+|CrysLDNet          |Latent Diffusion Pretraining for Crystal Property Prediction (ICML2026) [[**Paper**](https://openreview.net/forum?id=Q5uj05ynu5)]     [[**Code**](https://github.com/shrimonmuke0202/CrysLDNet)]  | 
+|CEITNet          |Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling (ICML2026) [[**Paper**](https://openreview.net/forum?id=4RCt2j8HpW)]     [[**Code**](https://github.com/CLaSLoVe/ceitnet)]  | 
 
 ## Crystalline Material Generative Design
 
@@ -169,6 +172,11 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |- |Closed-loop workflow of high-entropy materials discovery: efficient and accurate synthesizability prediction via domain-specific local LLMs (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02092-z)] [[**Code**](https://github.com/evenfarther/Sythesizability_prediction_local_llms)] |
 |DAO  |Siamese foundation models for crystal structure prediction (Nature Communications, 2026) [[**Paper**](https://www.nature.com/articles/s41467-026-72362-3)] [[**Code**](https://github.com/ManlioWu/DAO)]     |
 |SymmBFN |Symmetry-aware Bayesian flow networks for crystal generation (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02140-8)] [[**Code**](https://github.com/aimat-lab/symmbfn)] |
+|MCFlow          | Multimodal Crystal Flow: Any-to-Any Modality Generation for Unified Crystal Modeling (ICML2026) [[**Paper**](https://openreview.net/forum?id=lKyD1ulXpY)]     [[**Code**](https://openreview.net/forum?id=lKyD1ulXpY)]  | 
+|PeriodicBFN          |Periodic Bayesian Flow Networks with Additive Accuracy (ICML2026) [[**Paper**](https://openreview.net/forum?id=N7hieduZYV)]     [[**Code**](https://github.com/EmperorJia/PeriodicBFN)]  | 
+|OMatG-IRL          |Open Materials Generation with Inference-Time Reinforcement Learning (ICML2026) [[**Paper**](https://openreview.net/forum?id=xfHppnGXaH)]     [[**Code**](https://github.com/FERMat-ML/OMatG)]  | 
+|AutoMat          |AutoMat: Physics-Guided Agentic Reasoning for Solving Ill-Posed Inverse Microscopy Problems (ICML2026) [[**Paper**](https://openreview.net/forum?id=TLroFiKilA)]     [[**Code**](https://github.com/yyt-2378/AutoMat)]  | 
+| PLaID++          |PLaID++: A Preference Aligned Language Model for Targeted Inorganic Materials Design (ICML2026) [[**Paper**](https://openreview.net/forum?id=wFThVGzmvq)]     [[**Code**](https://github.com/andaero/PLaID)]  | 
 
 ## Aiding Characterization
 |Method         |           Paper            |
@@ -288,7 +296,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |CatalystBench         |CatalystBench: A Comprehensive Multi-Task Benchmark for Advancing Language Models in Catalysis Science(ICLR2026) [[**Paper**](https://openreview.net/forum?id=tCFYwPdmT4)]    | 
 |MOFSimBench  |MOFSimBench: evaluating universal machine learning interatomic potentials in metal-organic framework molecular modeling (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01872-3)]   [[**Code**](https://github.com/AI4ChemS/mofsim-bench)]   |
 |LAMBench  |LAMBench: A Benchmark for Large Atomistic Models (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01929-3)]   [[**Code**](https://github.com/deepmodeling/lambench)]   |
-
+|AtomWorld          |AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures (ICML2026) [[**Paper**](https://openreview.net/forum?id=tqr5sZlS6Y)]     [[**Code**](https://github.com/MasterAI-EAM/atomworld)]  | 
+|MADE          |MADE: Benchmark Environments for Closed-Loop Materials Discovery (ICML2026) [[**Paper**](https://openreview.net/forum?id=nrXxVDYMMF)]     [[**Code**](https://github.com/diffractivelabs/MADE)]  | 
 
 ## Common Dataset 
 
