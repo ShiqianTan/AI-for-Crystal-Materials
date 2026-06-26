@@ -75,6 +75,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |ELECTRAFI          |Global Plane Waves from Local Gaussians: Periodic Charge Densities in a Blink (ICML2026) [[**Paper**](https://openreview.net/forum?id=EPKdX56JSc)]     [[**Code**](https://github.com/Jotels/ELECTRAFI)]  | 
 |CrysLDNet          |Latent Diffusion Pretraining for Crystal Property Prediction (ICML2026) [[**Paper**](https://openreview.net/forum?id=Q5uj05ynu5)]     [[**Code**](https://github.com/shrimonmuke0202/CrysLDNet)]  | 
 |CEITNet          |Efficient Equivariant High-Order Crystal Tensor Prediction via Cartesian Local-Environment Many-Body Coupling (ICML2026) [[**Paper**](https://openreview.net/forum?id=4RCt2j8HpW)]     [[**Code**](https://github.com/CLaSLoVe/ceitnet)]  | 
+|DeepSciReasoner          |Deep Scientific Reasoning under Physical Constraints: Structure-Aware Spectrum Prediction (ICML2026) [[**Paper**](https://openreview.net/forum?id=LTrBRkduRt)]      | 
+|LE-ESO          |Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning (ICML2026) [[**Paper**](https://openreview.net/forum?id=klDHS09WNY)]     | 
 
 ## Crystalline Material Generative Design
 
@@ -177,6 +179,9 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |OMatG-IRL          |Open Materials Generation with Inference-Time Reinforcement Learning (ICML2026) [[**Paper**](https://openreview.net/forum?id=xfHppnGXaH)]     [[**Code**](https://github.com/FERMat-ML/OMatG)]  | 
 |AutoMat          |AutoMat: Physics-Guided Agentic Reasoning for Solving Ill-Posed Inverse Microscopy Problems (ICML2026) [[**Paper**](https://openreview.net/forum?id=TLroFiKilA)]     [[**Code**](https://github.com/yyt-2378/AutoMat)]  | 
 | PLaID++          |PLaID++: A Preference Aligned Language Model for Targeted Inorganic Materials Design (ICML2026) [[**Paper**](https://openreview.net/forum?id=wFThVGzmvq)]     [[**Code**](https://github.com/andaero/PLaID)]  | 
+|CatFlow        |CatFlow: Co-generation of Slab-Adsorbate Systems via Flow Matching (ICML2026) [[**Paper**](https://openreview.net/forum?id=WikLu7PkNK)]     [[**Code**](https://github.com/minkyu1022/CatFlow)]  | 
+
+
 
 ## Aiding Characterization
 |Method         |           Paper            |
@@ -275,6 +280,12 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |- |A domain-specific machine learning potential model for metallic materials spanning 53 elements (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-026-02072-3)] |
 |TrajCast        | Force-free molecular dynamics through autoregressive equivariant networks  (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01227-7)][[**Code**](https://github.com/IBM/trajcast)]     | 
 |-        | Platonic representation of foundation machine learning interatomic potentials  (Nature Machine Intelligence, 2026) [[**Paper**](https://www.nature.com/articles/s42256-026-01235-7)][[**Code**](https://github.com/WMD-group/PlatonicRep)]     | 
+|-         |Teaching Molecular Dynamics to a Non-Autoregressive Ionic Transport Predictor (ICML2026) [[**Paper**](https://openreview.net/forum?id=JJ3KlnhGJJ)]     [[**Code**](https://github.com/jykim-git/MD)]  | 
+|E2Former-V2       |E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory (ICML2026) [[**Paper**](https://openreview.net/forum?id=gIUVdEAa3l)]     [[**Code**](https://github.com/IQuestLab/UBio-MolFM/tree/main)]  | 
+|PFT       |PFT: Phonon Fine-tuning for Machine Learned Interatomic Potentials (ICML2026) [[**Paper**](https://openreview.net/forum?id=QC9S8gUOYc)]     [[**Code**](https://github.com/atomicarchitects/nequix)]  | 
+|-       |Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials (ICML2026) [[**Paper**](https://openreview.net/forum?id=BCVB3TFpk5)]     [[**Code**](https://github.com/AegisIK/smooth-dynamic-cutoff)]  | 
+|AllScAIP       |A recipe for scalable attention-based ML potentials: unlocking long-range accuracy with all-to-all node attention (ICML2026) [[**Paper**](https://openreview.net/forum?id=oZg9YF9dkz)]     [[**Code**](https://github.com/facebookresearch/fairchem)]  | 
+|BLIPs       |BLIPs: Bayesian Learned Interatomic Potentials (ICML2026) [[**Paper**](https://openreview.net/forum?id=ZSZW2diTs5)]     [[**Code**](https://github.com/dario-coscia/blip)]  | 
 
 
 
@@ -298,6 +309,7 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |LAMBench  |LAMBench: A Benchmark for Large Atomistic Models (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01929-3)]   [[**Code**](https://github.com/deepmodeling/lambench)]   |
 |AtomWorld          |AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures (ICML2026) [[**Paper**](https://openreview.net/forum?id=tqr5sZlS6Y)]     [[**Code**](https://github.com/MasterAI-EAM/atomworld)]  | 
 |MADE          |MADE: Benchmark Environments for Closed-Loop Materials Discovery (ICML2026) [[**Paper**](https://openreview.net/forum?id=nrXxVDYMMF)]     [[**Code**](https://github.com/diffractivelabs/MADE)]  | 
+|SciAgentGym          |SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents (ICML2026) [[**Paper**](https://openreview.net/forum?id=0Moj0YgFEF)]    | 
 
 ## Common Dataset 
 
