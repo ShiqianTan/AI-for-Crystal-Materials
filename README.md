@@ -309,7 +309,8 @@ Here we have collected papers with the theme of "AI for crystalline materials" t
 |LAMBench  |LAMBench: A Benchmark for Large Atomistic Models (npj Computational Materials, 2026) [[**Paper**](https://www.nature.com/articles/s41524-025-01929-3)]   [[**Code**](https://github.com/deepmodeling/lambench)]   |
 |AtomWorld          |AtomWorld: A Benchmark for Evaluating Spatial Reasoning in Large Language Models on Material Structures (ICML2026) [[**Paper**](https://openreview.net/forum?id=tqr5sZlS6Y)]     [[**Code**](https://github.com/MasterAI-EAM/atomworld)]  | 
 |MADE          |MADE: Benchmark Environments for Closed-Loop Materials Discovery (ICML2026) [[**Paper**](https://openreview.net/forum?id=nrXxVDYMMF)]     [[**Code**](https://github.com/diffractivelabs/MADE)]  | 
-|SciAgentGym          |SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents (ICML2026) [[**Paper**](https://openreview.net/forum?id=0Moj0YgFEF)]    | 
+|SciAgentGym          |SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents (ICML2026) [[**Paper**](https://openreview.net/forum?id=0Moj0YgFEF)]    |
+| PhononBench-MP40 | PhononBench-MP40: a spectrum-resolved benchmark dataset for phonon stability (Chinese Physics B, 2026) [[**Paper**](https://iopscience.iop.org/article/10.1088/1674-1056/ae843f)]  [[**Code**](https://github.com/DreamLufei/phononbench_mp40)]  |  
 
 ## Common Dataset 
 
